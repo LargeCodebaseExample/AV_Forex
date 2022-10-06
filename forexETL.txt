@@ -1,0 +1,40 @@
+Start: 2022-10-06 02:25:02 UTC
+
+
+Load packages
+
+Attaching package: â€˜dplyrâ€™
+
+The following objects are masked from â€˜package:statsâ€™:
+
+    filter, lag
+
+The following objects are masked from â€˜package:baseâ€™:
+
+    intersect, setdiff, setequal, union
+
+
+Start Exchange Rate ETL script!
+
+**some messages from functions**
+
+**more messages from functions**
+
+Get Forex..
+
+**some messages from functions**
+
+**more messages from functions**
+
+Start clean Forex data!
+
+**some messages from functions**
+
+**more messages from functions**
+
+Error in cleanForex() : "Some bug happened here"
+Calls: %>% ... pull -> <Anonymous> -> ValidChannel -> cleanForex
+In addition: Warning messages:
+1: In .f(...) :
+  In for (i in seq_len(n)) { : closing unused RODBC handle 1
+Execution halted
